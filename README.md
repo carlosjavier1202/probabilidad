@@ -17,5 +17,5 @@ Asienta las bases para convertirte en el Data Scientist del futuro con todo el c
 6. Variables multidimensionales
 7. Convergencia y Teorema Central del límite
 
-Y todo con más de **40 horas de vídeo bajo demanda**, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
+Y todo con m�s de **40 horas de vídeo bajo demanda**, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
 
